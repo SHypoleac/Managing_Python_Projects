@@ -47,8 +47,4 @@ setup(
     description='NLP for Python',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    license='MIT',
-    maintainer='353solutions',
-    maintainer_email='miki@353solutions.com',
-    url='https://github.com/353solutions/nlpy',
 )
