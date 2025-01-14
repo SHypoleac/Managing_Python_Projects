@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "py_translator"
+authors = [
+    {name = "SHypoleac", email = "MichalWolonciej@interia.pl"}
+]
