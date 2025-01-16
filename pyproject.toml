@@ -5,5 +5,5 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "py_translator"
 authors = [
-    {name = "SHypoleac", email = "MichalWolonciej@interia.pl"}
-]
+    {name = "SHypoleac", email = "MichalWolonciej@interia.pl"}]
+description = "Few usefull functions for translating Unciv game .properties file"
